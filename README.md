@@ -6,9 +6,9 @@ Feel free to contact me! ✉️\
 @paumur in telegram \
 paularobleslopez+github@gmail.com
    
-[![Paula's GitHub stats](https://github-readme-stats.vercel.app/api?username=paumurl&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Paula's GitHub stats](https://github-readme-stats.vercel.app/api?username=paumurl&show_icons=true&count_private=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paumurl&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paumurl&layout=compact&theme=merko&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
