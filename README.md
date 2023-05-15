@@ -6,9 +6,21 @@ Feel free to contact me! ✉️\
 @paumur in telegram \
 paularobleslopez+github@gmail.com \
 [paumurl.github.io](https://paumurl.github.io)
-   
-[![Paula's GitHub stats](https://github-readme-stats.vercel.app/api?username=paumurl&show_icons=true&count_private=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+<br/>
 
+### Skills
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,mysql,r,scala,java,html,css,latex,docker,flask,github" />
+  </a>
+</p>
+
+
+<br/>
+
+### Stats
+[![Paula's GitHub stats](https://github-readme-stats.vercel.app/api?username=paumurl&show_icons=true&count_private=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paumurl&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 
