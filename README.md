@@ -12,7 +12,7 @@ paularobleslopez+github@gmail.com \
 ### Skills
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,mysql,r,scala,java,html,css,latex,docker,flask,github" />
+    <img src="https://skillicons.dev/icons?i=py,bash,mysql,r,scala,html,css,js,latex,docker,flask,git,github" />
   </a>
 </p>
 
