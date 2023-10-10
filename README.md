@@ -14,7 +14,7 @@ paularobleslopez+github@gmail.com \
 ### Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,bash,mysql,r,scala,html,css,js,latex,docker,flask,git,github" />
+    <img src="https://skillicons.dev/icons?i=py,bash,mysql,r,scala,html,css,js,latex,docker,flask,git,github,postgres,kubernetes" />
   </a>
 </p>
 
