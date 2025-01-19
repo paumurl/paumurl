@@ -1,4 +1,4 @@
-sHi, I’m Paula (she/her)! A data scientist based in Madrid 🌱💻
+Hi, I’m Paula (she/her)! A data scientist based in Madrid 🌱💻
 
 I’m interested in data mining, cloud, machine learning and database management (SQL, NoSQL). I am currently learning more about DevOps! I also enjoy art, reading, watching films, rock climbing, and, most importantly, petting random dogs! 😆
 
